@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using PublisherDomail;
 
+
 namespace PublishData1
 {
     public class pubContext : DbContext
